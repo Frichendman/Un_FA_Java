@@ -1,0 +1,5 @@
+com.example.RestPart
+com.example.RestPart.controllers
+com.example.RestPart.models
+com.example.RestPart.repositories
+com.example.RestPart.services
